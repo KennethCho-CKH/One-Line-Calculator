@@ -1,0 +1,1 @@
+while True: print(eval(input("Input: "))) #MPL-2.0
