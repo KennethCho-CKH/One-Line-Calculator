@@ -1,0 +1,1 @@
+while true; print("Input: "); puts(eval(gets.to_s)); end #MPL-2.0
