@@ -20,7 +20,7 @@ Here are some examples of how to use it:
 
 ![The calculator does not lie](https://c.tenor.com/rqifYa0K0wEAAAAC/math.gif)
 
-### One Line Calculator:
+### Meanwhile One Line Calculator:
 
 | Input | Output |
 | --- | --- |
